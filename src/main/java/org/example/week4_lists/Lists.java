@@ -1,8 +1,7 @@
-package org.example.week4;
+package org.example.week4_lists;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Vector;
 
 public class Lists
 {

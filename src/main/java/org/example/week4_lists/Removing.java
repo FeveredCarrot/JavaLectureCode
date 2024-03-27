@@ -1,7 +1,6 @@
-package org.example.week4;
+package org.example.week4_lists;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
